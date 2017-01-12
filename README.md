@@ -1,0 +1,2 @@
+# hitechnew
+my first repo
